@@ -3,7 +3,14 @@
     widows: inherit;
 }
 
+<<<<<<< Updated upstream
 #abc{
     empty-cells: 0;
     widows: inherit;
 }
+=======
+#yyy{
+    empty-cells: 0;
+    widows: inherit;
+}
+>>>>>>> Stashed changes
