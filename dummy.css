@@ -3,7 +3,9 @@
     widows: inherit;
 	font-size: 20;
 }
-
+if(alpaca=hungry){
+	feed(alpaca);
+}
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
