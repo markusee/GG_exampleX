@@ -3,6 +3,10 @@
     widows: inherit;
 }
 
+#test123
+{
+    background-color: #fff;
+}
 #abc{
     empty-cells: 0;
     widows: inherit;
