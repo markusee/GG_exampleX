@@ -1,9 +1,6 @@
 #xxx{
     empty-cells: 0;
     widows: inherit;
+	font-size: 20;
 }
 
-#abc{
-    empty-cells: 0;
-    widows: inherit;
-}
