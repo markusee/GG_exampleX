@@ -2,7 +2,9 @@
     empty-cells: 0;
     widows: inherit;
 }
-
+if(alpaca=hungry){
+	feed(alpaca);
+}
 <<<<<<< HEAD
 #test123
 {
